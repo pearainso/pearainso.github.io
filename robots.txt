@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pearainso.github.io/sitemap
+Sitemap: https://pearainso.github.io/app/sitemap
+Sitemap: https://pearainso.github.io/assets/sitemap
+Sitemap: https://pearainso.github.io/css/sitemap
+Sitemap: https://pearainso.github.io/includes/sitemap
+Sitemap: https://pearainso.github.io/item/sitemap
+Sitemap: https://pearainso.github.io/src/sitemap
